@@ -1,0 +1,13 @@
+fastapi>=0.100.0
+uvicorn>=0.22.0
+pydantic>=2.0.0
+python-dotenv>=1.0.0
+langchain>=0.1.0
+langchain-google-genai>=0.1.0
+langchain-openai>=0.1.0
+langgraph>=0.0.10
+tavily-python>=0.3.0
+reportlab>=4.0.0
+python-pptx>=0.6.21
+pandas>=2.0.0
+requests>=2.31.0
